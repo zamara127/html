@@ -9,3 +9,7 @@ h2 {font-weight:bold;
     font-size: 24px; 
     text-align:center;
     color: mediumvioletred;}
+p {color: blue;
+   background: azure;
+   text-align: justify;}
+img { width: 200px; height: 200px}
